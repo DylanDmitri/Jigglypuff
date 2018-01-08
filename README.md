@@ -1,2 +1,2 @@
 # Jigglypuff
-Poke'mon Showdown Randombattle AI
+Pokémon Showdown Randombattle AI
