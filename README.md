@@ -14,10 +14,7 @@ Pokémon Showdown Randombattle AI
 - a 'battle' function between two entities
 -- create random battle on server
 -- connect players
--- until battle is over
---- both players see battle state and options
---- both players make choices
---- both players see other's choice
+-- until the battle is over: both players see battle state and options, both players make choices, both players see other's choice
 
 ## after that
 
